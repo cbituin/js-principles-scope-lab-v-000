@@ -11,9 +11,9 @@ function setBestCustomer() {
 }
 
 function overwriteBestCustomer() {
-  
+
 }
 
 function changeLeastFavoriteCustomer() {
-  
+
 }
